@@ -1,4 +1,4 @@
-package gui.view;
+ package gui.view;
 
 import gui.controller.GUIAppController;
 import javax.swing.JPanel;
@@ -53,7 +53,7 @@ public class GUIPanel extends JPanel
 	{
 		int red,green,blue;
 		red = (int) (Math.random()*256);
-		green= (int) (Math.random()*256);
+		green= (int) (Math.random()*256); 
 		blue = (int) (Math.random()*256);
 		
 		this.setBackground(new Color(red,green,blue));
