@@ -5,7 +5,6 @@ import javax.swing.JPanel;
 import javax.swing.JButton;
 import javax.swing.JTextField;
 import javax.swing.SpringLayout;
-import java.awt.event.*;
 import java.awt.Color;
 
 public class GUIPanel extends JPanel

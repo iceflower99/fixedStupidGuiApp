@@ -5,7 +5,7 @@ import gui.controller.GUIAppController;
 
 /**
  * @author madeleine hales @ version 0.2xNov 9, 2015 updated the setupFrame to
- *         load the contentOane with a GUIPanel.
+ *         load the contentPane with a GUIPanel.
  */
 public class GUIFrame extends JFrame
 {

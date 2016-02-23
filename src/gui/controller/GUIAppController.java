@@ -1,4 +1,4 @@
-package gui.controller;
+ package gui.controller;
 
 import gui.view.GUIFrame;
 
@@ -15,7 +15,7 @@ public class GUIAppController
  */
 	private GUIFrame baseFrame;
 	/**
-	 * Creates a GUIAppContrpller and initializes the GUIFrame.
+	 * Creates a GUIAppController and initializes the GUIFrame.
 	 */
 	
 	public  GUIAppController()
